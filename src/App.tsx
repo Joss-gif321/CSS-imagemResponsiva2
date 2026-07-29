@@ -2,11 +2,14 @@
 import './App.css'
 
 function App() {
-  
   return (
-    <>
-      <img src="https://picsum.photos/400/300" width= "400px"/>
-    </>
+    <div className="App">
+      <img
+        src="https://picsum.photos/400/300"
+        alt="Imagem responsiva"
+        className="App-image"
+      />
+    </div>
   )
 }
 
