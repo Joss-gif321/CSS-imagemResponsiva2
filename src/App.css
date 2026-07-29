@@ -1,13 +1,4 @@
-.App {
-  min-height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  padding: 1rem;
-}
-
-.App-image {
-  max-width: 100%;
-  height: auto;
-  display: block;
+img{
+  margin:auto;
+  width: 100%;
 }
